@@ -16,7 +16,7 @@ body{
     align-items: flex-start;
     background-color: #9aa2f0;
     font-family: 'Plus Jakarta Sans', sans-serif;
-    
+    min-height: 100svh;
 }
 
 .wrap{
@@ -134,4 +134,5 @@ a{
     display: none;
     text-align: center;
     color: green;
+
 }
