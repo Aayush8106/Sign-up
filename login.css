@@ -129,7 +129,7 @@ body{
 }
 
 .fb { background: #1877f2; }
-.tw { background: #1da1f2; }
+.tw { background: #000; }
 .gg { background: #db4437; }
 
 .sign-up{
@@ -182,5 +182,6 @@ button:active{
     font-weight: bold;
     line-height: 1;
 }
+
 
 a{text-decoration: none;}
